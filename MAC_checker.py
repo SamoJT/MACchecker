@@ -1,3 +1,6 @@
+#Please note, i was struggling on how to make python download the text file from either my github or the wireshark source hence the
+#need for the user input! Not efficient or smooth but works..
+
 a = input("Is wireshark installed? y or n: ")
 print()
 
